@@ -1,1 +1,1 @@
-this file is for file in c sample for intermediate student 
+laid baroudi is who do this project
